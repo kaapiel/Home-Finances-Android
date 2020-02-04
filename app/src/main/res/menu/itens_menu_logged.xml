@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group_options">
+
+        <item
+            android:id="@+id/menu_relatorioGeral"
+            android:icon="@drawable/ic_pontos"
+            android:title="Relatório geral" />
+
+        <item
+            android:id="@+id/menu_product_catalog"
+            android:icon="@drawable/ic_historico"
+            android:title="Despesas" />
+
+        <item
+            android:id="@+id/menu_rescue_code"
+            android:icon="@drawable/ic_token"
+            android:title="BREVE..." />
+
+        <item
+            android:id="@+id/menu_contact_us"
+            android:icon="@drawable/ic_catalogo"
+            android:title="BREVE..." />
+
+        <item
+            android:id="@+id/menu_exit"
+            android:icon="@drawable/ic_cadeado_menu"
+            android:title="Sair" />
+    </group>
+
+</menu>

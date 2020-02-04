@@ -1,0 +1,71 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="HomeFinances.TextView.Token.Title.Blue" parent="HomeFinances.TextView">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="HomeFinances.TextView.MuseoSans.Blue" parent="HomeFinances.TextView.Token.Title.Blue">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="HomeFinancesTheme.TextVieww" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="HomeFinances.TextView.Toolbar" parent="HomeFinances.TextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="HomeFinances.TextView" parent="android:TextAppearance.Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="HomeFinancesTheme.TextView" parent="HomeFinancesTheme.TextVieww">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="HomeFinances.NavigationView.TextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">19sp</item>
+    </style>
+
+    <style name="HomeFinances.NavigationView" parent="Widget.Design.NavigationView">
+        <item name="android:listDivider">@color/album_title</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:itemBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="LiveloPontosTheme.Button.Enabled" parent="android:TextAppearance.Widget.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/login_content_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/login_content_margin_right</item>
+        <item name="android:layout_marginTop">@dimen/login_button_join_margin_top</item>
+        <item name="android:background">@drawable/bg_button_enable</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
