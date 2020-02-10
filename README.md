@@ -1,4 +1,4 @@
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Home-Finances-Android/home-menu.png)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Home-Finances-Android/banner.png)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Android-Home-Finances&metric=alert_status)](https://sonarcloud.io/dashboard?id=kaapiel_Android-Home-Finances)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Android-Home-Finances&metric=ncloc)](https://sonarcloud.io/dashboard?id=kaapiel_Android-Home-Finances)
