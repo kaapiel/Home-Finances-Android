@@ -11,6 +11,12 @@
 # Home Fincances Android
 A powerful & easy to use Android app for Finances Management
 
+### To access SonarCloud data use this link: 
+#### https://sonarcloud.io/dashboard?id=kaapiel_Android-Home-Finances
+
+### To access pipeline and CI data use this link: 
+#### https://circleci.com/gh/kaapiel/Home-Finances-Android
+
 ## Table of Contents
 1. [Quick Start](#quick-start)
 1. [Example usage](#examples)
